@@ -7,6 +7,7 @@ O código que estamos discutindo é um script de web scraping em R que tem como 
  Após a coleta de dados, é feita a limpeza dos mesmos. O código renomeia a terceira coluna para "Agency" e remove o símbolo de dólar e substitui as vírgulas por pontos na coluna "Annual salary".
  Por fim, os dados são salvos em um arquivo CSV e o cliente e servidor RSelenium são fechados.
  Esse código é útil para extrair informações de salários do Departamento de Segurança Pública do Texas de forma automatizada, permitindo a análise e manipulação dos dados coletados.
+![tabela](https://github.com/EdsonLuizSilva/WebScraping-em-R/assets/65295796/0bd734d7-8969-4ff6-a95a-890e85a850b0)
 
 Vou explicar cada passo do código fornecendo um trecho de código correspondente a cada etapa:
  1. Importação das bibliotecas:
