@@ -109,3 +109,4 @@ Em conclusão, o código fornecido é um exemplo de raspagem de dados em R utili
  O script percorre cada página da tabela de salários, extrai os dados e os armazena em um data frame. Em seguida, realiza a limpeza dos dados, removendo símbolos e formatando as colunas adequadamente. Por fim, os dados são salvos em um arquivo CSV para posterior análise e utilização.
  A utilização do RSelenium permite a interação com o navegador, possibilitando a navegação pelas páginas e extração dos dados desejados. Essa abordagem automatizada é extremamente útil para coletar informações de forma eficiente e precisa.
  Em resumo, o código apresentado é um exemplo prático de como realizar raspagem de dados em R utilizando RSelenium, tornando possível a extração e análise de informações relevantes de uma página web específica.
+![WebScraping_Texas_Tribune pdf](https://github.com/EdsonLuizSilva/WebScraping-em-R/assets/65295796/b9f57ea8-add0-453c-9a51-af675d9f71d8)
